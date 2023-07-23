@@ -32,11 +32,11 @@
 
 ## Github Activity ✔:
 
-<a href="https://github.com/oshadaera68">
+<a href="https://github.com/bharathajayarathna">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathajayarathna&theme=tokyonight" />
   </a>
 
-<a href="https://github.com/oshadaera68">
+<a href="https://github.com/bharathajayarathna">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bharathajayarathna&show_icons=true&theme=tokyonight&line_height=27" alt="Oshada's github stats"/>
 </a>
 
@@ -47,9 +47,12 @@
 <br/>
 
 ## Social Media
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,linkedin,instagram,twitter" />
+<p align="center">
+  <a href="https://github.com/bharathajayarathna">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+    <a href="www.linkedin.com/in/bharatha-jayarathna-a1b0aa241/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
 
