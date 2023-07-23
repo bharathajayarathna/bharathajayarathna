@@ -1,4 +1,6 @@
-<h1 align="center">Hello Guyz 👋, I'm Bharatha Jayarathna.</h1>
+![readme-cover](https://github.com/bharathajayarathna/bharathajayarathna/assets/128476693/f65dc6e5-ca0a-4219-900a-a0e117262164)
+
+<h1 align="center">Hello Guyz <img src="https://github.com/NimeshPiyumantha/red-alpha/blob/main/Hi.gif" width="30px">, I'm Bharatha Jayarathna.</h1>
 <h3 align="center">Software Engineer</h3>
 
 - 🔭 I have completed internship in `Institute of Software Engineering(IJSE)`.
@@ -37,7 +39,7 @@
   </a>
 
 <a href="https://github.com/bharathajayarathna">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=bharathajayarathna&show_icons=true&theme=tokyonight&line_height=27" alt="Oshada's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=bharathajayarathna&show_icons=true&theme=tokyonight&line_height=27" alt="Bharatha's github stats"/>
 </a>
 
 <br/>
@@ -46,12 +48,12 @@
 <br/>
 <br/>
 
-## Social Media
+<h2 align="center"> Social Media </h2>
 <p align="center">
   <a href="https://github.com/bharathajayarathna">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-    <a href="www.linkedin.com/in/bharatha-jayarathna-a1b0aa241/">
+    <a href="https://www.linkedin.com/in/bharatha-jayarathna-a1b0aa241/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
